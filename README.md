@@ -45,6 +45,7 @@ A collection of Python practice exercises and mini challenges completed while le
 - Dictionary sorting
 - Dictionary filtering
 - Combining filtering, transformation, and sorting
+- Zip function
 
 ## Repository Structure
 
@@ -71,7 +72,9 @@ python-mini-challenges/
 ├── 08_filtering_dictionaries/
 ├── 09_filter_sort_dictionaries/
 └── 10_combined_number_processing/
+└── 11_zip_function/
 
 ## Goal
 
 This repository documents my hands-on Python learning journey through small exercises and progressively harder challenges.
+```
