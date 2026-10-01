@@ -8,4 +8,4 @@ def process_numbers(numbers):
 
 
 print(process_numbers(numbers))
-# Output: [400, 225, 100, 64, 49]
+
