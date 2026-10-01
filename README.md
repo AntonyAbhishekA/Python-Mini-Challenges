@@ -46,6 +46,8 @@ A collection of Python practice exercises and mini challenges completed while le
 - Dictionary filtering
 - Combining filtering, transformation, and sorting
 - Zip function
+- Stacks and Queues
+- Tuples and Swapping variables
 
 ## Repository Structure
 
@@ -71,8 +73,10 @@ python-mini-challenges/
 ├── 07_sorting_dictionaries/
 ├── 08_filtering_dictionaries/
 ├── 09_filter_sort_dictionaries/
-└── 10_combined_number_processing/
-└── 11_zip_function/
+├── 10_combined_number_processing/
+├── 11_zip_function/
+├── 12_stack_and_queues/
+├── 13_tuples_and_swapping/
 
 ## Goal
 
