@@ -49,6 +49,7 @@ A collection of Python practice exercises and mini challenges completed while le
 - Stacks and Queues
 - Tuples and Swapping variables
 - Arrays
+- Sets
 
 ## Repository Structure
 
@@ -78,7 +79,8 @@ python-mini-challenges/
 ├── 11_zip_function/
 ├── 12_stack_and_queues/
 ├── 13_tuples_and_swapping/
-├── 14_arrays
+├── 14_arrays/
+├── 15_sets/
 
 ## Goal
 
